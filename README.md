@@ -6,6 +6,9 @@
 
 ## Configure & Install
 
+Make init.sh executable running `chmod +x init.sh`.
+
+Specify your project name when running `./init.sh project_name`.
 - npm install
 
 ## Local development
