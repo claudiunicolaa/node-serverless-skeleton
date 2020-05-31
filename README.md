@@ -1,4 +1,4 @@
-# Skeleton of a Node AWS Lambda function
+# Node.js AWS Lambda function skeleton
 
 ## Prerequisites
 
